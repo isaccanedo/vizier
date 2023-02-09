@@ -67,7 +67,7 @@ Além disso, contém [API avançada](https://oss-vizier.readthedocs.io/en/latest
 * [**Tensorflow Probability:**](https://oss-vizier.readthedocs.io/en/latest/advanced_topics/index.html#tensorflow-probability) Para escrever algoritmos de otimização bayesiana usando Tensorflow Probability e Flax.
 * [**PyGlove:**](https://oss-vizier.readthedocs.io/en/latest/advanced_topics/index.html#pyglove) Para experimentação evolutiva em larga escala e pesquisa de programas usando o OSS Vizier como um back-end distribuído.
 
-Please see OSS Vizier's [ReadTheDocs documentation](https://oss-vizier.readthedocs.io/) for detailed information.
+Consulte a [documentação ReadTheDocs] do OSS Vizier (https://oss-vizier.readthedocs.io/) para obter informações detalhadas.
 
 ## Installation <a name="installation"></a>
 **Most common:** To tune objectives using our default state-of-the-art JAX-based Bayesian Optimizer, run:
