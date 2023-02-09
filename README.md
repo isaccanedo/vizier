@@ -17,8 +17,7 @@
 | [**Citing Vizier**](#citing_vizier)
 
 ## O que é Vizier de código aberto (OSS)?
-[OSS Vizier](https://arxiv.org/abs/2207.13676) is a Python-based service for black-box optimization and research, based on [Google Vizier](https://dl.acm.org/doi/10.1145/3097983.3098043), one of the first hyperparameter tuning services designed to work at scale.
-
+[OSS Vizier](https://arxiv.org/abs/2207.13676) é um serviço baseado em Python para otimização e pesquisa de caixa preta, baseado no [Google Vizier](https://dl.acm.org/doi/10.1145/3097983.3098043), um dos primeiros serviços de ajuste de hiperparâmetros projetados para funcionar em escala .
 <figure>
 <p align="center" width=65%>
 <img src="docs/assets/oss_vizier_service.gif"/>
