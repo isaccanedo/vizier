@@ -64,7 +64,7 @@ A interface do OSS Vizier consiste em [três APIs principais](https://oss-vizier
 
 Além disso, contém [API avançada](https://oss-vizier.readthedocs.io/en/latest/advanced_topics/index.html) para:
 
-* [**Tensorflow Probability:**](https://oss-vizier.readthedocs.io/en/latest/advanced_topics/index.html#tensorflow-probability) For writing Bayesian Optimization algorithms using Tensorflow Probability and Flax.
+* [**Tensorflow Probability:**](https://oss-vizier.readthedocs.io/en/latest/advanced_topics/index.html#tensorflow-probability) Para escrever algoritmos de otimização bayesiana usando Tensorflow Probability e Flax.
 * [**PyGlove:**](https://oss-vizier.readthedocs.io/en/latest/advanced_topics/index.html#pyglove) For large-scale evolutionary experimentation and program search using OSS Vizier as a distributed backend.
 
 Please see OSS Vizier's [ReadTheDocs documentation](https://oss-vizier.readthedocs.io/) for detailed information.
