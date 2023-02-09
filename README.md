@@ -2,7 +2,7 @@
 <img src="docs/assets/vizier_logo2.png" width=20% align="right"/>
 </figure>
 
-# Open Source Vizier: Reliable and Flexible Black-Box Optimization.
+# Open Source Vizier: Otimização de caixa preta confiável e flexível.
 [![PyPI version](https://badge.fury.io/py/google-vizier.svg)](https://badge.fury.io/py/google-vizier)
 ![Continuous Integration (Core)](https://github.com/google/vizier/workflows/pytest_core/badge.svg)
 ![Continuous Integration (Clients)](https://github.com/google/vizier/workflows/pytest_clients/badge.svg)
