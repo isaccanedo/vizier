@@ -76,7 +76,7 @@ Consulte a [documentação ReadTheDocs] do OSS Vizier (https://oss-vizier.readth
 pip install google-vizier[jax]
 ```
 
-To install a **minimal version** that consists of only the core service and client API from `requirements.txt`, run:
+Para instalar uma **versão mínima** que consiste apenas no serviço principal e na API do cliente de `requirements.txt`, execute:
 
 ```bash
 pip install google-vizier
