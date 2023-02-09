@@ -69,7 +69,7 @@ Além disso, contém [API avançada](https://oss-vizier.readthedocs.io/en/latest
 
 Consulte a [documentação ReadTheDocs] do OSS Vizier (https://oss-vizier.readthedocs.io/) para obter informações detalhadas.
 
-## Installation <a name="installation"></a>
+## Instalação <a name="installation"></a>
 **Most common:** To tune objectives using our default state-of-the-art JAX-based Bayesian Optimizer, run:
 
 ```bash
