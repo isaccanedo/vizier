@@ -33,7 +33,7 @@ Como um exemplo básico para os usuários, abaixo mostramos como ajustar um obje
 from vizier.service import clients
 from vizier.service import pyvizier as vz
 
-# Objective function to maximize.
+# Função objetivo para maximizar.
 def evaluate(w: float, x: int, y: float, z: str) -> float:
   return w**2 - y**2 + x * ord(z)
 
