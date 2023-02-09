@@ -60,7 +60,7 @@ A interface do OSS Vizier consiste em [três APIs principais](https://oss-vizier
 
 * [**User API:**](https://oss-vizier.readthedocs.io/en/latest/guides/index.html#for-users) Permite que um usuário configure um OSS Vizier Server, que pode hospedar algoritmos de otimização de caixa preta para atender a vários clientes simultaneamente de maneira tolerante a falhas para ajustar suas funções objetivas.
 * [**Developer API:**](https://oss-vizier.readthedocs.io/en/latest/guides/index.html#for-developers) Define abstrações e utilitários para implementar novos algoritmos de otimização para pesquisa e para serem hospedados no serviço.
-* [**Benchmarking API:**](https://oss-vizier.readthedocs.io/en/latest/guides/index.html#for-benchmarking) A wide collection of objective functions and methods to benchmark and compare algorithms.
+* [**Benchmarking API:**](https://oss-vizier.readthedocs.io/en/latest/guides/index.html#for-benchmarking) Uma ampla coleção de funções objetivas e métodos para avaliar e comparar algoritmos.
 
 Additionally, it contains [advanced API](https://oss-vizier.readthedocs.io/en/latest/advanced_topics/index.html) for:
 
