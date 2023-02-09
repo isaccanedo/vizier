@@ -55,7 +55,7 @@ for i in range(10):
     suggestion.complete(vz.Measurement({'metric_name': objective}))
 ```
 
-## Documentation <a name="documentation"></a>
+## Documentação <a name="documentation"></a>
 OSS Vizier's interface consists of [three main APIs](https://oss-vizier.readthedocs.io/en/latest/guides/index.html):
 
 * [**User API:**](https://oss-vizier.readthedocs.io/en/latest/guides/index.html#for-users) Allows a user to setup an OSS Vizier Server, which can host black-box optimization algorithms to serve multiple clients simultaneously in a fault-tolerant manner to tune their objective functions.
