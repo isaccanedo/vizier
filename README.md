@@ -37,7 +37,7 @@ from vizier.service import pyvizier as vz
 def evaluate(w: float, x: int, y: float, z: str) -> float:
   return w**2 - y**2 + x * ord(z)
 
-# Algorithm, search space, and metrics.
+# Algoritmo, espaço de pesquisa e métricas.
 study_config = vz.StudyConfig(algorithm=vz.Algorithm.GAUSSIAN_PROCESS_BANDIT)
 study_config.search_space.root.add_float_param('w', 0.0, 5.0)
 study_config.search_space.root.add_int_param('x', -2, 2)
