@@ -70,7 +70,7 @@ Além disso, contém [API avançada](https://oss-vizier.readthedocs.io/en/latest
 Consulte a [documentação ReadTheDocs] do OSS Vizier (https://oss-vizier.readthedocs.io/) para obter informações detalhadas.
 
 ## Instalação <a name="installation"></a>
-**Most common:** To tune objectives using our default state-of-the-art JAX-based Bayesian Optimizer, run:
+**Mais comum:** para ajustar os objetivos usando nosso Otimizador Bayesiano baseado em JAX de última geração, execute:
 
 ```bash
 pip install google-vizier[jax]
