@@ -27,7 +27,7 @@
 </figure>
 
 ## Começando <a name="getting_started"></a>
-As a basic example for users, below shows how to tune a simple objective using all flat search space types:
+Como um exemplo básico para os usuários, abaixo mostramos como ajustar um objetivo simples usando todos os tipos de espaço de pesquisa plana:
 
 ```python
 from vizier.service import clients
