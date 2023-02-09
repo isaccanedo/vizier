@@ -26,7 +26,7 @@
 </p>
 </figure>
 
-## Getting Started <a name="getting_started"></a>
+## Começando <a name="getting_started"></a>
 As a basic example for users, below shows how to tune a simple objective using all flat search space types:
 
 ```python
