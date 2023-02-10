@@ -82,7 +82,7 @@ Para instalar uma **versão mínima** que consiste apenas no serviço principal 
 pip install google-vizier
 ```
 
-For **full installation** to support all algorithms and benchmarks, run:
+Para **instalação completa** para suportar todos os algoritmos e benchmarks, execute:
 
 ```bash
 pip install google-vizier[extra]
