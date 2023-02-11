@@ -94,7 +94,7 @@ For **specific installations**, you can run:
 pip install google-vizier[X]
 ```
 
-which will install additional packages from `requirements-X.txt`, such as:
+que instalará pacotes adicionais de `requirements-X.txt`, como:
 
 * `requirements-jax.txt`: Jax libraries shared by both algorithms and benchmarks.
 * `requirements-tf.txt`: Tensorflow libraries used by benchmarks.
