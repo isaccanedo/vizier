@@ -104,7 +104,7 @@ que instalará pacotes adicionais de `requirements-X.txt`, como:
 
 Verifique se todos os testes de unidade funcionam executando `run_tests.sh` após uma instalação completa. OSS Vizier requer Python 3.10+, enquanto pacotes somente para cliente requerem Python 3.7+.
 
-## Citing Vizier <a name="citing_vizier"></a>
+## Citando Vizir <a name="citing_vizier"></a>
 If you found this code useful, please consider citing the [OSS Vizier paper](https://arxiv.org/abs/2207.13676) as well as the [Google Vizier paper](https://dl.acm.org/doi/10.1145/3097983.3098043). Thanks!
 
 ```
