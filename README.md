@@ -88,7 +88,7 @@ Para **instalação completa** para suportar todos os algoritmos e benchmarks, e
 pip install google-vizier[extra]
 ```
 
-For **specific installations**, you can run:
+Para **instalações específicas**, você pode executar:
 
 ```bash
 pip install google-vizier[X]
