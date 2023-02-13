@@ -102,7 +102,7 @@ que instalará pacotes adicionais de `requirements-X.txt`, como:
 * `requirements-benchmarks.txt`: Additional repositories (e.g. NASBENCH-201) for benchmarks.
 * `requirements-test.txt`: Libraries needed for testing code.
 
-Check if all unit tests work by running `run_tests.sh` after a full installation. OSS Vizier requires Python 3.10+, while client-only packages require Python 3.7+.
+Verifique se todos os testes de unidade funcionam executando `run_tests.sh` após uma instalação completa. OSS Vizier requires Python 3.10+, while client-only packages require Python 3.7+.
 
 ## Citing Vizier <a name="citing_vizier"></a>
 If you found this code useful, please consider citing the [OSS Vizier paper](https://arxiv.org/abs/2207.13676) as well as the [Google Vizier paper](https://dl.acm.org/doi/10.1145/3097983.3098043). Thanks!
